@@ -19,3 +19,4 @@ timeline插件汉化，一款js实现时间轴的汉化和调成自己喜欢的�
 # 效果图
 
 ![](https://github.com/gruad/timeline-chinesization/blob/master/timepic.png)
+![](https://github.com/gruad/timeline-chinesization/blob/master/function.png)
