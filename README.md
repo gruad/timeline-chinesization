@@ -15,8 +15,9 @@ timeline插件汉化，一款js实现时间轴的汉化和调成自己喜欢的�
 3. 可以删除。
 ![](https://github.com/gruad/timeline-chinesization/blob/master/delete.png)
 4. 可以隐藏和收缩动画。
+![](https://github.com/gruad/timeline-chinesization/blob/master/function.png)
 
 # 效果图
 
 ![](https://github.com/gruad/timeline-chinesization/blob/master/timepic.png)
-![](https://github.com/gruad/timeline-chinesization/blob/master/function.png)
+
